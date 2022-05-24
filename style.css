@@ -1,0 +1,12 @@
+.dropzone,.dragzone{
+    height: 400px;
+    width: 40%;
+    border: 8px groove cyan;
+    float: left;
+    margin-top: 150px;
+    margin-left: 7%;
+}
+#c1{
+    height: 400px;
+    width: 667px;
+}
